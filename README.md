@@ -8,6 +8,8 @@ cgm-remote-monitor (a.k.a. Nightscout)
 [![Stories in Ready][ready-img]][waffle]
 [![Stories in Progress][progress-img]][waffle]
 
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
 [![Deploy to Heroku][heroku-img]][heroku-url]
 
 This acts as a web-based CGM (Continuous Glucose Monitor) to allow
